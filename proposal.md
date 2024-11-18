@@ -16,7 +16,7 @@ El proyecto consiste en un servicio de GESTIÓN DE TURNOS PARA UN HOSPITAL. Los 
 
 Adicionalmente, se proporciona información sobre si el médico trabaja con obras sociales. En caso afirmativo, se presenta un menú desplegable con opciones de obras sociales para que el paciente elija la suya. Si la obra social del paciente no está disponible, se le brinda la opción de seleccionar "Particular". Posteriormente, el paciente confirma el turno.
 
-Una vez confirmado, el sistema envía automáticamente una confirmación por correo electrónico al paciente. Este correo contiene detalles esenciales del turno, como la fecha, la hora, el médico y la especialidad.*
+Una vez confirmado, el paciente podrá visualizar el turno en la sección de Mis Turnos, con la posibilidad de cancelarlo ante alguna circunstancia externa.*
 
 ### Modelo
 ![imagen del modelo](https://github.com/FranGenoud01/DSW-Backend/assets/130707329/3e7944ae-1c6a-4c45-87ab-281a198c963d)
